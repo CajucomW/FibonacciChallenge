@@ -8,10 +8,7 @@ A simple, python-powered app that will calculate the nth Fibonacci number. I'll 
     
 TODO:
 <ol>
-    <li>Write a function that will calculate the nth Fibonacci number (where n is
-# a parameter), and return that value</li>
-
+    <li>Write a function that will calculate the nth Fibonacci number (where n is # a parameter), and return that value</li>
     <li>Come up ith a "test plan" for this function</li>
-    
-    <li>Use "assert" to test your code. Assert is for sanity checks in code</li>
+        <li>Use "assert" to test your code. Assert is for sanity checks in code</li>
 </ol>
