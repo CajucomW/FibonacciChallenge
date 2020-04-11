@@ -13,5 +13,5 @@ TODO:
 
     <li>Come up ith a "test plan" for this function</li>
     
-    <li>Use "assert" to test your code. Assert is for sanity checks in code<li/>
+    <li>Use "assert" to test your code. Assert is for sanity checks in code</li>
 </ol>
